@@ -1,0 +1,184 @@
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\ApplicationInsights.config
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\roslyn\csc.exe
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\roslyn\vbc.exe
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Books.Web.dll.config
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Books.Web.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Books.Web.pdb
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Antlr3.Runtime.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Autofac.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Autofac.Integration.Mvc.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Books.Business.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Books.Model.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Books.Repository.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\EntityFramework.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.Web.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Newtonsoft.Json.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Owin.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\System.Web.Helpers.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\System.Web.Mvc.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\System.Web.Optimization.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\System.Web.Razor.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\System.Web.WebPages.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\WebGrease.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Books.Business.pdb
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Books.Model.pdb
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Books.Repository.pdb
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Autofac.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Autofac.Integration.Mvc.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.Web.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\System.Web.Helpers.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\System.Web.Mvc.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\System.Web.Optimization.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\System.Web.Razor.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\System.Web.WebPages.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Antlr3.Runtime.pdb
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Newtonsoft.Json.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\EntityFramework.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\obj\Debug\Books.Web.csprojResolveAssemblyReference.cache
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\obj\Debug\Books.Web.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Web\obj\Debug\Books.Web.pdb
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\ApplicationInsights.config
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\roslyn\csc.exe
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\roslyn\vbc.exe
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\roslyn\VBCSCompiler.exe
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Books.Web.dll.config
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Books.Web.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Books.Web.pdb
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Antlr3.Runtime.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Autofac.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Autofac.Integration.Mvc.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Books.Business.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Books.Model.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Books.Repository.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\EntityFramework.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\EntityFramework.SqlServer.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.Web.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.ApplicationInsights.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Newtonsoft.Json.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Owin.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\System.Web.Helpers.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\System.Web.Mvc.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\System.Web.Optimization.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\System.Web.Razor.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\System.Web.WebPages.Deployment.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\System.Web.WebPages.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\System.Web.WebPages.Razor.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\WebGrease.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Books.Business.pdb
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Books.Model.pdb
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Books.Repository.pdb
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Autofac.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Autofac.Integration.Mvc.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.Web.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.ApplicationInsights.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\System.Web.Helpers.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\System.Web.Mvc.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\System.Web.Optimization.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\System.Web.Razor.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\System.Web.WebPages.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\System.Web.WebPages.Deployment.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\System.Web.WebPages.Razor.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Antlr3.Runtime.pdb
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Newtonsoft.Json.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\EntityFramework.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\EntityFramework.SqlServer.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\obj\Debug\Books.Web.csprojResolveAssemblyReference.cache
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\obj\Debug\Books.Web.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Web\obj\Debug\Books.Web.pdb

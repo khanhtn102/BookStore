@@ -1,0 +1,30 @@
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Model\bin\Debug\Books.Model.dll.config
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Model\bin\Debug\Books.Model.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Model\bin\Debug\Books.Model.pdb
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Model\bin\Debug\EntityFramework.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Model\bin\Debug\EntityFramework.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Model\obj\Debug\Books.Model.csprojResolveAssemblyReference.cache
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Model\obj\Debug\Books.Model.dll
+C:\Users\KhanhTN\Documents\Visual Studio 2015\Projects\ProjectSample_BookManage\Books.Model\obj\Debug\Books.Model.pdb
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\bin\Debug\Books.Model.dll.config
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\bin\Debug\Books.Model.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\bin\Debug\Books.Model.pdb
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\bin\Debug\EntityFramework.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\bin\Debug\EntityFramework.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\obj\Debug\Books.Model.csprojResolveAssemblyReference.cache
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\obj\Debug\Books.Model.dll
+E:\GitHub\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\obj\Debug\Books.Model.pdb
+C:\Users\Luke Phan\Documents\ETS\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\bin\Debug\Books.Model.dll.config
+C:\Users\Luke Phan\Documents\ETS\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\bin\Debug\Books.Model.dll
+C:\Users\Luke Phan\Documents\ETS\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\bin\Debug\Books.Model.pdb
+C:\Users\Luke Phan\Documents\ETS\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\bin\Debug\EntityFramework.dll
+C:\Users\Luke Phan\Documents\ETS\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luke Phan\Documents\ETS\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\bin\Debug\EntityFramework.xml
+C:\Users\Luke Phan\Documents\ETS\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luke Phan\Documents\ETS\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\obj\Debug\Books.Model.csprojResolveAssemblyReference.cache
+C:\Users\Luke Phan\Documents\ETS\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\obj\Debug\Books.Model.dll
+C:\Users\Luke Phan\Documents\ETS\Code\Web\SampleProject\ProjectSample_BookManage\Books.Model\obj\Debug\Books.Model.pdb
